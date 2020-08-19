@@ -31,6 +31,8 @@ And other areas of interest:
 * **Photography**
   * Especially landscape and cityscape photography
 * **3D Modeling**
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willowell&show_icons=true)
   
 ### ⚙️ Programming Languages
 ----
