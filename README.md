@@ -1,4 +1,5 @@
 ### 😃 Hello, bonjour!
+
 ----
   **Hello! My name is William Howell, and I am currently living in Toronto, Ontario, Canada** 🇨🇦 I'm an aspiring software developer with over 6 years experience in programming, but only recently have I decided to work on larger, more serious projects. I have experience with game development, application development, and web development, but most recently, I have been knee-deep in Haskell and having tons of fun wrapping my brain around pure functional programming, functors, monads, and how I can apply those concepts back to other programming languages, as you can see in my [GuessingGame repository](https://github.com/willowell/Guessing-Game).
   
@@ -31,10 +32,8 @@ And other areas of interest:
   * Especially landscape and cityscape photography
 * **3D Modeling**
   
-  
 ### ⚙️ Programming Languages
 ----
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/haskell.svg" />
 * **C++20**
 * **Haskell**
 * **Python**
