@@ -1,5 +1,7 @@
 ### 😃 Hello, bonjour!
 
+
+
 ----
   **Hello! My name is William Howell, and I am currently living in Toronto, Ontario, Canada** 🇨🇦 I'm an aspiring software developer with over 6 years experience in programming, but only recently have I decided to work on larger, more serious projects. I have experience with game development, application development, and web development, but most recently, I have been knee-deep in Haskell and having tons of fun wrapping my brain around pure functional programming, functors, monads, and how I can apply those concepts back to other programming languages, as you can see in my [GuessingGame repository](https://github.com/willowell/Guessing-Game).
   
@@ -32,10 +34,17 @@ And other areas of interest:
   * Especially landscape and cityscape photography
 * **3D Modeling**
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willowell&show_icons=true)
+![Willowell's github stats](https://github-readme-stats.vercel.app/api?username=willowell&show_icons=true)
   
 ### ⚙️ Programming Languages
 ----
+<code><img alt="C++"        width="30px" src="assets/cplusplus.svg"  /></code>
+<code><img alt="Haskell"    width="30px" src="assets/haskell.svg"    /></code>
+<code><img alt="Python"     width="30px" src="assets/python.svg"     /></code>
+<code><img alt="Rust"       width="30px" src="assets/rust.svg"       /></code>
+<code><img alt="Swift"      width="30px" src="assets/swift.svg"      /></code>
+<code><img alt="TypeScript" width="30px" src="assets/typescript.svg" /></code>
+
 * **C++20**
 * **Haskell**
 * **Python**
@@ -45,9 +54,17 @@ And other areas of interest:
 
 ⚠️ These are the languages I am *confident* in; I know and have tried many more languages than just these, but there are my go-to languages and the ones I feel comfortable enough to make a production-ready application with. ⚠️
 
-### 🧰 Tools
+### 🧰 General Tools
 ----
 * **Computer**: Late 2013 cylinder Mac Pro
 * **OS**: macOS 10.15 Catalina (of course...)
 * **Text editors**: Visual Studio Code, kakoune (⚠️ in progress ⚠️)
 * **IDEs**: IntelliJ IDEA, PyCharm, CLion, Xcode, Visual Studio Code via LSPs.
+
+### My Favourite Web Development Tools
+
+* **yarn**
+* **React**
+* **GraphQL**
+* **Gatsby**
+* **Emotion**
