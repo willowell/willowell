@@ -77,8 +77,9 @@ And other areas of interest:
   * How its relationship with existing paradigms will evolve
   * I am very interested in the math and physics behind them
 * **Photography**
-  * Especially landscape and cityscape photography
+  * Especially landscape and cityscape photography. You can view my photographs on my DeviantArt [here](https://www.deviantart.com/willhowl)
 * **3D Modeling**
+  * I dabble in it from time to time. It's always fun to see a model come together! I post models I make on my DeviantArt, like [this one](https://www.deviantart.com/willhowl/art/Low-Poly-Island-Render-Blender-Cycles-799779844).
 
 ![Willowell's github stats](https://github-readme-stats.vercel.app/api?username=willowell&show_icons=true)
   
