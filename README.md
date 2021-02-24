@@ -48,6 +48,8 @@
 </details>
 
 ## 📖 Areas of Interest
+
+<details><summary>Click to view!</summary>
  
 * **Functional Programming**
   * Pure functions and isolating I/O interactions, particularly how they can help reduce the surface area for errors and bugs in codebases.
@@ -81,8 +83,10 @@ And other areas of interest:
 * **3D Modeling**
   * I dabble in it from time to time. It's always fun to see a model come together! I post models I make on my DeviantArt, like [this one](https://www.deviantart.com/willhowl/art/Low-Poly-Island-Render-Blender-Cycles-799779844).
 
+</details>
+
 ![Willowell's github stats](https://github-readme-stats.vercel.app/api?username=willowell&show_icons=true)
-  
+
 ## ⚙️ Programming Languages
 
 * <img alt="TypeScript" width="30px" src="assets/typescript.svg" /> **TypeScript**
