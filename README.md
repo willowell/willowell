@@ -3,6 +3,8 @@
   **Hello! My name is William Howell, and I am currently living in Toronto, Ontario, Canada** 🇨🇦 I'm an aspiring software developer with over 6 years experience in programming between my studies in college and programming as a hobby. At the end of 2019, I decided to make this my livelihood, get into web development, and take on larger, more serious projects. I'm currently volunteering with [Furnal Equinox](https://furnalequinox.com/) as their webmaster, and I am also responsible for the development of the website for Furnal Equinox 2021: Pixel Purrfect, which is an all-virtual event!
   
  ## 👋 About Me
+ 
+ <details><summary>Click to view!</summary>
   
   I actually started out computer programming with Khan Academy's Computer Programming course back in 2014! My first programming class in college used it as part of the course material. At the time, I did not view myself as a techy person. I was afraid I would do poorly because I did not get very far learning C++ a few years prior with the *Beginning C++ Through Game Programming* book. Much to my surprise, I had a blast! I had *tons* of fun in that first programming class, so much so that I went out of my way to learn Java and then C++ (properly this time with *Programming: Principles and Practice Using C++* and Xcode set up!) in my free time.
   
@@ -11,7 +13,9 @@
   I completed 98 credits towards my degree. I hope to pursue a degree in Computer Science in the near future.
   
   In my free time, I like to play with my cat and my dog, listen to music and podcasts, and play video games like Animal Crossing, Metroid, Mass Effect, Ratchet and Clank, and other platformer games like Super Mario Odyssey. I also enjoy cooking. I just wish it didn't take so long sometimes!
- 
+
+</details>
+
 ## Mini-Portfolio
 
 <details><summary>Click to view!</summary>
@@ -40,6 +44,7 @@
 ### [OGMTPS](https://github.com/willowell/Oh-God-Make-the-Puns-Stop-2)
 
   This is a theatre reservation command line application. I made the original version for the final project for my Computer Science 1 class back in 2015, and I revisited it in the fall of 2019 and rewrote it almost from scratch using C++17 and Microsoft's vcpkg. My Computer Science 1 professor had a thing for puns and dad jokes in the projects, so I named my project as a tongue-in-cheek response. I have included the original version for posterity. I wrote a reflection on version 2 on my WordPress blog [here](https://williamphowell.wordpress.com/2020/09/19/post-mortem-on-version-2-of-my-movie-reservation-program-in-c/). I also reflect on my path as a programmer since college in that post.
+
 </details>
 
 ## 📖 Areas of Interest
@@ -78,7 +83,7 @@ And other areas of interest:
 ![Willowell's github stats](https://github-readme-stats.vercel.app/api?username=willowell&show_icons=true)
   
 ## ⚙️ Programming Languages
-----
+
 * <img alt="TypeScript" width="30px" src="assets/typescript.svg" /> **TypeScript**
 * <img alt="Haskell"    width="30px" src="assets/haskell.svg"    /> **Haskell**
 * <img alt="Rust"       width="30px" src="assets/rust.svg"       /> **Rust**
@@ -89,7 +94,7 @@ And other areas of interest:
 ⚠️ These are the languages I am *confident* in; I know and have tried many more languages than just these, but these are my go-to languages and the ones with which I feel comfortable enough to work. That is, I know enough to make a script or tool with the language, I know how to move around the documentation for the language and its libraries, but I may not know most or all advanced features or rarer / more obscure features of the language. ⚠️
 
 ## 🧰 General Tools
-----
+
 * **Computer**: Late 2013 cylinder Mac Pro
 * **OS**: macOS 11.2 Big Sur (of course...)
 * **Text editors**: Visual Studio Code, a little vim
