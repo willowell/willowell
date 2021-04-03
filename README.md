@@ -30,6 +30,8 @@
 
   The website for Furnal Equinox's virtual convention! This is an open source [Gatsby](https://www.gatsbyjs.com/) website, written mostly in TypeScript and hosted on Netlify. It uses Netlify Functions to invite users who register through our RegFox pages. It also uses a Fauna database to track the total donation amount for the website's UI and for our event staff and to track how much each registrant has donated for our records and for giving perks and incentives. I invite you to check out the repository - this is just scratching the surface!
   
+  Since Furnal Equinox concluded for the year, I have removed the Identity system and the Netlify Functions from the website. It's just a plain old blog now! However,  before I did that, I saved the repository's state to the [fe2021 branch](https://github.com/Furnal-Equinox/virtual.furnalequinox.com/tree/fe2021), so you can still check out how I implemented the Identity system and the Netlify Functions there!
+  
 ### [FE Donations Tool](https://github.com/Furnal-Equinox/donations-tool)
 
   This is a small React web app for our event staff to keep track of the total donation amount and to determine whether or not someone has donated.
