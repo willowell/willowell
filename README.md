@@ -4,6 +4,8 @@
   
   At the end of 2019, I decided to make this my livelihood, get into web development, and take on larger, more serious projects. I'm currently volunteering with [Furnal Equinox](https://furnalequinox.com/) as their webmaster. I was also responsible for the development of the website for Furnal Equinox 2021: Pixel Purrfect, which was Furnal Equinox's first-ever all-virtual event!
   
+[Here's my CV if you'd like to look!](./CV.md)
+  
  ## 👋 About Me
  
  <details><summary>Click to view!</summary>
@@ -100,9 +102,4 @@ And other areas of interest:
 
 ⚠️ These are the languages I am *confident* in; I know and have tried many more languages than just these, but these are my go-to languages and the ones with which I feel comfortable enough to work. That is, I know enough to make a script or tool with the language, I know how to move around the documentation for the language and its libraries, but I may not know most or all advanced features or rarer / more obscure features of the language. ⚠️
 
-## 🧰 General Tools
-
-* **Computer**: Late 2013 cylinder Mac Pro
-* **OS**: macOS 11.2 Big Sur (of course...)
-* **Text editors**: Visual Studio Code, a little vim
-* **IDEs**: IntelliJ IDEA, PyCharm, CLion, Xcode, Visual Studio Code via language servers.
+Please view my CV for a more comprehensive list of programming languages and technologies I know!
