@@ -2,7 +2,7 @@
 
   **Hello! My name is William Howell, and I am currently living in Toronto, Ontario, Canada** 🇨🇦 I'm an aspiring software developer with over 6 years experience in programming between my studies in college and programming as a hobby. I have a wonderful husband, an adorable dog, and a silly cat!
   
-  At the end of 2019, I decided to make this my livelihood, get into web development, and take on larger, more serious projects. I'm currently volunteering with [Furnal Equinox](https://furnalequinox.com/) as their webmaster, and I am also responsible for the development of the website for Furnal Equinox 2021: Pixel Purrfect, which is an all-virtual event!
+  At the end of 2019, I decided to make this my livelihood, get into web development, and take on larger, more serious projects. I'm currently volunteering with [Furnal Equinox](https://furnalequinox.com/) as their webmaster. I was also responsible for the development of the website for Furnal Equinox 2021: Pixel Purrfect, which was Furnal Equinox's first-ever all-virtual event!
   
  ## 👋 About Me
  
