@@ -2,6 +2,8 @@
 
   **Hello! My name is William Howell, and I am currently living in Toronto, Ontario, Canada** 🇨🇦 I'm a junior web developer with over 6 years experience in programming between my studies in university and programming as a hobby. I have a wonderful husband, an adorable dog, and a silly cat!
   
+  I prefer calling myself an Experience Designer because I'm all about both user experience and developer experience! When I design and develop a project, I consider *everyone* who will use the project - from myself as a developer, other staff and developers who may come along and use it or maintain it, and to end users. Accessibility is a core principle for me and encompasses far more than just WCAG compliance!
+  
   At the end of 2019, I decided to make this my livelihood, get into web development, and take on larger, more serious projects. I'm currently volunteering with [Furnal Equinox](https://furnalequinox.com/) as their webmaster. I was also responsible for the development of the website for Furnal Equinox 2021: Pixel Purrfect, which was Furnal Equinox's first-ever all-virtual event!
   
 [Here's my CV if you'd like to look!](./CV.md)
@@ -12,7 +14,7 @@
   
   I actually started out computer programming with Khan Academy's Computer Programming course back in 2014! My first programming class in college used it as part of the course material. At the time, I did not view myself as a techy person. I was afraid I would do poorly because I did not get very far learning C++ a few years prior with the *Beginning C++ Through Game Programming* book. Much to my surprise, I had a blast! I had *tons* of fun in that first programming class, so much so that I went out of my way to learn Java and then C++ (properly this time with *Programming: Principles and Practice Using C++* and Xcode set up!) in my free time.
   
-  Speaking of college, I studied Arts and Technology at the University of Texas at Dallas, which meant game development for me. My favourite classes related to my degree were my classes on Unity and the class I had on Autodesk Maya. I can't afford Autodesk Maya, so I use Blender instead. For what it's worth, I like Blender much more anyway. The UI is *much* cleaner and easier to understand. I feel tired just looking at Maya's UI 🤣
+  Speaking of college, I studied Arts and Technology at the University of Texas at Dallas, which meant video game design and development for me. My favourite classes related to my degree were my classes on Unity and the class I had on Autodesk Maya. I can't afford Autodesk Maya, so I use Blender instead. For what it's worth, I like Blender much more anyway. The UI is *much* cleaner and easier to understand. I feel tired just looking at Maya's UI 🤣
   
   I completed 98 credits towards my degree. I hope to pursue a degree in Computer Science in the near future.
   
