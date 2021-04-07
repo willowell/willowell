@@ -14,7 +14,7 @@
   
   I actually started out computer programming with Khan Academy's Computer Programming course back in 2014! My first programming class in college used it as part of the course material. At the time, I did not view myself as a techy person. I was afraid I would do poorly because I did not get very far learning C++ a few years prior with the *Beginning C++ Through Game Programming* book. Much to my surprise, I had a blast! I had *tons* of fun in that first programming class, so much so that I went out of my way to learn Java and then C++ (properly this time with *Programming: Principles and Practice Using C++* and Xcode set up!) in my free time.
   
-  Speaking of college, I studied Arts and Technology at the University of Texas at Dallas, which meant video game design and development for me. My favourite classes related to my degree were my classes on Unity and the class I had on Autodesk Maya. I can't afford Autodesk Maya, so I use Blender instead. For what it's worth, I like Blender much more anyway. The UI is *much* cleaner and easier to understand. I feel tired just looking at Maya's UI 🤣
+  Speaking of college, I studied Arts and Technology at the University of Texas at Dallas, which meant video game design and development for me. My favourite classes related to my degree were my classes on Unity and the class I had on Autodesk Maya. I still 3D model from time to time, but I can't afford Autodesk Maya, so I use Blender instead. For what it's worth, I like Blender much more anyway. The UI is *much* cleaner and easier to understand. I feel tired just looking at Maya's UI 🤣
   
   I completed 98 credits towards my degree. I hope to pursue a degree in Computer Science in the near future.
   
