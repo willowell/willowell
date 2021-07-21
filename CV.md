@@ -23,19 +23,18 @@ Please note: this list is not exhaustive!
   * GraphQL (intermediate)
   * Python (intermediate)
   * C++20 (intermediate)
-  * Elixir (learning)
-  * Rust (learning)
-  * Swift 5 (learning)
-  * Scala (learning)
+  * Rust (learning, novice)
+  * Swift 5 (learning, novice)
   * C# (rusty)
   * Java (rusty)
 
 **Frameworks:**
   * NodeJS 14 (intermediate)
-  * React 17 (intermediate)
-  * GatsbyJS 2 (intermediate)
+  * React 17 (proficient)
+  * GatsbyJS 2 (proficient)
+  * Next.js 10 (proficient)
   * Deno (novice, learning)
-  * Unity 3D (intermediate)
+  * Unity 3D (rusty but pick it up from time to time)
 
 **Styling:**
   * Bootstrap 5 with Sass (intermediate)
@@ -56,7 +55,7 @@ Please note: this list is not exhaustive!
 
 **Version Control:**
   * Git with GitHub (proficient)
-  * GitLab (novice)
+  * GitLab (rusty, novice)
   * Bitbucket (rusty)
 
 **Art, Design, 3D Modelling, and UX/UI Mock-up Programs:**
