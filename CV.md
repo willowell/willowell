@@ -49,6 +49,11 @@ Please note: this list is not exhaustive!
   * Fauna DB (novice)
   * Postgres 11 (learning)
 
+**Content Management Systems:**
+  * DatoCMS (learning)
+  * Ghost (novice)
+  * WordPress with ACF and WPGraphQL (intermediate)
+
 **Platforms:**
   * Netlify (intermediate)
   * AWS (novice)
