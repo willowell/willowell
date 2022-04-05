@@ -25,14 +25,15 @@ Please note: this list is not exhaustive!
   * C++20 (intermediate)
   * Rust (learning, novice)
   * Swift 5 (learning, novice)
+  * PHP 7, 8 (learning, novice)
   * C# (rusty)
   * Java (rusty)
 
 **Frameworks:**
-  * NodeJS 14 (intermediate)
+  * NodeJS 14, 16 (intermediate)
   * React 17 (proficient)
   * GatsbyJS 2 (proficient)
-  * Next.js 10 (proficient)
+  * Next.js 10, 12 (proficient)
   * Deno (novice, learning)
   * Unity 3D (rusty but pick it up from time to time)
 
@@ -48,9 +49,11 @@ Please note: this list is not exhaustive!
 **Databases:**
   * Fauna DB (novice)
   * Postgres 11 (learning)
+  * MySQL (learning)
 
 **Content Management Systems:**
   * DatoCMS (learning)
+  * Netlify CMS (learning)
   * Ghost (novice)
   * WordPress with ACF and WPGraphQL (intermediate)
 
@@ -58,7 +61,7 @@ Please note: this list is not exhaustive!
   * Netlify (intermediate)
   * AWS (novice)
 
-**Version Control:**
+**Version Control Systems:**
   * Git with GitHub (proficient)
   * GitLab (rusty, novice)
   * Bitbucket (rusty)
@@ -96,6 +99,11 @@ Toronto, Ontario, Canada, **November 2020 - Present**
   * Used Affinity Designer and Bootstrap theme samples for prototyping. 
 
 ## Work Experience
+
+### Corus Entertainment, Inc.
+Toronto, Ontario, Canada, **April 2021 - Present**
+
+#### Web Developer
 
 ### Forster and Howell, Inc.
 Dothan, Alabama, United States of America, **May 2015 - July 2015**, **May 2016 - July 2016**
