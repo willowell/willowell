@@ -23,15 +23,15 @@ Here is the full list of programming languages that I have at least played aroun
 17. Java
 18. JavaScript
 19. Julia
-20. Lua
-21. Objective-C
-22. OCaml
-23. PHP
-24. Prolog
-25. PureScript
-26. Python
-27. Q#
-28. Raku
+20. Kotlin
+21. Lua
+22. Objective-C
+23. OCaml
+24. PHP
+25. Prolog
+26. PureScript
+27. Python
+28. Raku (formerly Perl 6)
 29. ReScript (formerly ReasonML)
 30. Rust
 31. SASS / SCSS
