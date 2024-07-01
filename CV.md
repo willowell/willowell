@@ -4,9 +4,16 @@ Toronto, Ontario, Canada
 
 https://github.com/willowell
 
-## Full-Stack Software Developer
+## Software Developer
 
-Agile, user- and detail-oriented with 3+ years experience. Loves learning, experimenting with, and staying up-to-date with computer technologies and best practices. Strives to deliver a superior UX and DX. Designs solutions with a test-driven, domain-driven, and functional- and immutable-first approach, focusing on ["Parse, don't validate"](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) and the ["Functional Core, Imperative Shell"](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) pattern.
+Agile, user- and detail-oriented with 3+ years experience. Loves learning, experimenting with, and staying up-to-date with computer technologies and best practices. Strives to deliver an accessible, superior UX and DX. Designs solutions with a test-driven, domain-driven, and functional- and immutable-first approach, focusing on ["Parse, don't validate"](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) and the ["Functional Core, Imperative Shell"](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) pattern.
+
+## Areas of Interest
+
+* Web Accessibility
+* Progressive Enhancement
+* Referential Transparency
+* Exploratory Programming
 
 ## Work Experience
 
@@ -16,13 +23,10 @@ Toronto, Ontario, Canada, **April 2021 - Present**
 
 #### Web Developer
 
-* TBD
-
-* Maintained the Food Network Canada and HGTV Canada websites, refining editor and user UX, accessibility, code quality, performance, SEO, and ad optimization.
-  * Developed and enhanced custom plugins to share reusable functionality across websites. 
-* Collaborated in an agile team to launch the new Food Network Canada website, presenting users with a revamped UX.
-* Collaborated in an agile team on redesigning the corporate website, ensuring AODA compliance, providing an ergonomic and flexible UX for the editors, and providing an extensible foundation for future development.
-  * Saved Corus's Web Team maintenance effort while providing editors an improved UX with a new page builder system.
+* Collaborated in an Agile team to maintain the Food Network Canada and HGTV Canada websites, refining editor and visitor UX, accessibility, code quality, performance, SEO, and ad optimization.
+  * Developed and enhanced custom plugins to share reusable functionality across websites.
+* Collaborated in an Agile team on redesigning the corporate website, ensuring AODA compliance, providing an ergonomic and flexible UX for the editors, and providing an extensible foundation for future development.
+  * Saved Corus Digital maintenance effort while providing editors an improved UX with a new page builder system.
   * Improved onboarding and collaboration with an extensive user manual that doubles as a BDD-like specification for developers.
   * Reduced size of bundled CSS by about 50% using PurgeCSS. 
 
@@ -32,7 +36,7 @@ Dothan, Alabama, United States of America, **May 2015 - July 2015**, **May 2016 
 
 #### Information Technology Assistant
 
-* Ensured compliance with company policy and government requirements by scanning CSV files from the item DB for incorrect fields with a Java 8 app that outputs the results as RTF.
+* Ensured compliance with company policy and government requirements by scanning CSV files from the item DB for incorrect fields with a Java app that outputs the results as RTF.
 * Reduced burden on HR by organizing, scanning, and backing up data relating to insurance claims.
 * Assisted my father with setting up an Ethernet network at a new grocery store by cutting Cat6 cables and connecting the RJ45 connectors.
 
@@ -91,9 +95,8 @@ A quick note: as listing my skills in terms of years of experience is inaccurate
 
   * TypeScript, JavaScript, and ES6+ (proficient)
   * Scala 3 (learning, intermediate)
-  * Haskell (intermediate)
+  * Haskell (learning, intermediate)
   * Python 3 (intermediate)
-  * Rust 2018+ (learning, novice)
   * PHP 7, 8 (learning, intermediate)
   * Java (rusty)
 
@@ -103,7 +106,7 @@ A quick note: as listing my skills in terms of years of experience is inaccurate
 
   * NodeJS 18+ (proficient)
   * Scala Typelevel Ecosystem (Cats, Cats Effect, FS2, Circe, etc.) (learning, novice)
-  * Deno (novice, learning)
+  * Deno (learning, novice)
 
 #### Web Dev
 
@@ -113,12 +116,18 @@ A quick note: as listing my skills in terms of years of experience is inaccurate
   * Next.js 12+ (proficient)
   * Nuxt.js 3 (learning, novice)
   * Astro (learning, intermediate)
+  * ESBuild and Vite.js (learning, novice)
 
 #### Game Dev
 
   * Unity 3D (rusty but pick it up from time to time)
 
-## Testing Systems
+### Machine Learning and Artificial Intelligence
+
+  * HuggingFace Transformers (learning, novice)
+  * Sentence Transformers (AKA SBERT) (learning, novice)
+
+### Testing Systems
 
   * Jest
   * Vitest
@@ -129,6 +138,7 @@ A quick note: as listing my skills in terms of years of experience is inaccurate
 ### Website Styling Tools
 
   * Bootstrap 5 with Sass (intermediate)
+  * Tailwind CSS (learning, novice)
   * CSS-in-JS (learning)
 
 ### Markup
@@ -138,21 +148,21 @@ A quick note: as listing my skills in terms of years of experience is inaccurate
 
 ### Databases
 
-  * Fauna DB (novice)
+  * Fauna DB (rusty, novice)
   * Postgres 11 (learning)
-  * MySQL (learning)
+  * MySQL (learning, novice)
 
 ### Content Management Systems
 
   * WordPress with ACF and WPGraphQL (intermediate)
     * Custom WordPress Plugins
-    * WordPress VIP
+    * WordPress VIP (learning, novice)
 
 ### Platforms
 
   * Netlify (rusty, intermediate)
   * AWS (novice)
-  * Cloudflare (novice, learning)
+  * Cloudflare (learning, novice)
 
 ### Version Control Systems
 
