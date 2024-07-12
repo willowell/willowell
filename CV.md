@@ -4,7 +4,7 @@ Toronto, Ontario, Canada
 
 https://github.com/willowell
 
-## Software Developer
+## Full Stack Software Developer
 
 Agile, user- and detail-oriented with 3+ years experience. Loves learning, experimenting with, and staying up-to-date with computer technologies and best practices. Strives to deliver an accessible, superior UX and DX. Designs solutions with a test-driven, domain-driven, and functional- and immutable-first approach, focusing on ["Parse, don't validate"](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) and the ["Functional Core, Imperative Shell"](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) pattern.
 
