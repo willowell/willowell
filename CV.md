@@ -2,13 +2,16 @@
 
 Toronto, Ontario, Canada
 
-https://github.com/willowell
+| Site | Profile |
+| --- | --- |
+| GitHub | https://github.com/willowell/ |
+| LinkedIn | https://www.linkedin.com/in/williamphowell/ |
 
 ## Full Stack Software Developer
 
 Agile, user- and detail-oriented with 3+ years experience. Loves learning, experimenting with, and staying up-to-date with computer technologies and best practices. Strives to deliver an accessible, superior UX and DX. Designs solutions with a test-driven, domain-driven, and functional- and immutable-first approach, focusing on ["Parse, don't validate"](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) and the ["Functional Core, Imperative Shell"](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) pattern.
 
-## Areas of Interest
+## Areas of Interest (Ask me about...)
 
 * Web Accessibility
 * Progressive Enhancement
@@ -28,7 +31,7 @@ Toronto, Ontario, Canada, **April 2021 - Present**
 * Collaborated in an Agile team on redesigning the corporate website, ensuring AODA compliance, providing an ergonomic and flexible UX for the editors, and providing an extensible foundation for future development.
   * Saved Corus Digital maintenance effort while providing editors an improved UX with a new page builder system.
   * Improved onboarding and collaboration with an extensive user manual that doubles as a BDD-like specification for developers.
-  * Reduced size of bundled CSS by about 50% using PurgeCSS. 
+  * Reduced size of bundled CSS by about 50% using PurgeCSS.
 
 ### Forster and Howell, Inc.
 
