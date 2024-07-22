@@ -15,7 +15,7 @@ Agile, user-oriented professional with over 3 years of experience. Loves learnin
 * Referential Transparency
 * Exploratory Programming
 * User Experience vs. Developer Experience
-* Pure Agile
+* Plain Agile
 
 ## Work Experience
 
@@ -28,16 +28,37 @@ Toronto, Ontario, Canada, **April 2021 - Present**
 * More to come. Stay tuned!
 * Elevated search term relevancy on the Food Network Canada website by creating an autosuggestion feature using Machine Learning text extraction to locate terms on the website and by leveraging ElasticSearch on WordPress VIP.
   * Explored multiple Machine Learning models using Jupyter Notebooks, spaCy, HuggingFace Transformers, and Sentence Transformers (SBERT).
-  * Insured developer UX by creating the Machine Learning project as a self-contained Python Poetry project, complete with Confluence documentation and diagrams.
+  * Insured developer UX by creating the Machine Learning project as a self-contained modern Python Poetry project, complete with Confluence documentation and diagrams.
 * Collaborated in an Agile Scrum team to maintain the Food Network Canada and HGTV Canada websites, refining and elevating editor and visitor UX, accessibility, code quality, performance, SEO, and ad optimization.
   * Developed and enhanced custom WordPress plugins to share functionality across websites, including for analytics and ad optimization.
   * Fixed high-priority user-facing issues with fast turn-around, maintaining close communication with project manager and developers.
   * Provided actionable performance audits using Webpack Bundle Analyzer and Google Lighthouse.
   * Spearheaded investigation of various tools to improve developer UX, summarizing findings in Confluence.
+  * Developed reusable code facilitating easy, uniform distribution to RSS and MSN.
 * Collaborated in an Agile Scrum team on redesigning the corporate website, ensuring AODA compliance, providing an ergonomic and flexible UX for the editors, and providing an extensible foundation for future development.
   * Saved Corus Digital maintenance effort while providing editors an improved UX with a new page builder system.
   * Improved onboarding and collaboration with an extensive user manual that doubles as a BDD-like specification for developers.
   * Reduced size of bundled CSS by about 50% using PurgeCSS.
+ 
+##### Showcase
+
+###### Corus Entertainment Corporate Website
+
+| Mobile | Desktop |
+| --- | --- |
+| ![foo](https://placehold.co/400) | ![foo](https://placehold.co/400) |
+
+###### Food Network Canada Website
+
+| Mobile | Desktop |
+| --- | --- |
+| ![foo](https://placehold.co/400) | ![foo](https://placehold.co/400) |
+
+###### HGTV Canada Website
+
+| Mobile | Desktop |
+| --- | --- |
+| ![foo](https://placehold.co/400) | ![foo](https://placehold.co/400) |
 
 ### Forster and Howell, Inc.
 
@@ -53,7 +74,7 @@ Dothan, Alabama, United States of America, **May 2015 - July 2015**, **May 2016 
 
 ## Volunteer Experience
 
-### Furnal Equinox
+### Anthropomorphic Events of Ontario
 
 Toronto, Ontario, Canada, **November 2020 - June 2022**
 
@@ -73,7 +94,7 @@ Richardson, Texas, United States of America, **August 2014 - December 2017**
 
 Completed 98 credits towards a Bachelor of Arts in Arts and Technology
 
-* Highlight Courses:
+Highlight Courses:
   * Game Design
   * Level Design
   * Scripting for Games
