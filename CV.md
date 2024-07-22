@@ -6,7 +6,7 @@ Toronto, Ontario, Canada
 
 ## Full Stack Software Developer
 
-Agile user-oriented professional with 3+ years experience. Loves learning, experimenting with, and staying up-to-date with computer technologies and best practices. Strives to deliver an accessible, superior UX and DX. Designs solutions with a test-driven, domain-driven, and functional- and immutable-first approach, focusing on ["Parse, don't validate"](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) and the ["Functional Core, Imperative Shell"](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) pattern.
+Agile, user-oriented professional with over 3 years of experience. Loves learning, experimenting with, and staying up-to-date with computer technologies and best practices. Strives to deliver an accessible, superior user experience (UX) and developer experience (DX). Designs solutions with a test-driven, domain-driven, and functional- and immutable-first approach, focusing on pragmatic solutions that deliver value to users. 
 
 ## Areas of Interest (Ask me about...)
 
@@ -14,6 +14,8 @@ Agile user-oriented professional with 3+ years experience. Loves learning, exper
 * Progressive Enhancement
 * Referential Transparency
 * Exploratory Programming
+* User Experience vs. Developer Experience
+* Pure Agile
 
 ## Work Experience
 
@@ -24,7 +26,7 @@ Toronto, Ontario, Canada, **April 2021 - Present**
 #### Web Developer
 
 * More to come. Stay tuned!
-* Elevated search term relevancy on the Food Network Canada website by creating an autosuggestion feature using Machine Learning text extraction to locate terms on the website and leveraging ElasticSearch on WordPress VIP.
+* Elevated search term relevancy on the Food Network Canada website by creating an autosuggestion feature using Machine Learning text extraction to locate terms on the website and by leveraging ElasticSearch on WordPress VIP.
   * Explored multiple Machine Learning models using Jupyter Notebooks, spaCy, HuggingFace Transformers, and Sentence Transformers (SBERT).
   * Insured developer UX by creating the Machine Learning project as a self-contained Python Poetry project, complete with Confluence documentation and diagrams.
 * Collaborated in an Agile Scrum team to maintain the Food Network Canada and HGTV Canada websites, refining and elevating editor and visitor UX, accessibility, code quality, performance, SEO, and ad optimization.
@@ -44,7 +46,7 @@ Dothan, Alabama, United States of America, **May 2015 - July 2015**, **May 2016 
 #### Information Technology Assistant
 
 * Ensured compliance with company policy and government requirements by scanning CSV files from the item DB for invalid fields with a Java 8 applet that outputs the results as RTF.
-  * Facilitated user UX with a simple JavaFX GUI featuring drag-and-drop.
+  * Facilitated UX with a simple JavaFX GUI featuring drag-and-drop.
 * Reduced burden on HR by organizing, scanning, and backing up data relating to insurance claims.
 * Assisted CTO (my father) with setting up an Ethernet network at a new grocery store by custom-sizing Cat6 RJ45 cables.
 * Reduced burden on CTO by setting up Intel NUC computers for deployment to stores.
