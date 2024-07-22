@@ -2,14 +2,11 @@
 
 Toronto, Ontario, Canada
 
-| Site | Profile |
-| --- | --- |
-| GitHub | https://github.com/willowell/ |
-| LinkedIn | https://www.linkedin.com/in/williamphowell/ |
+[GitHub](https://github.com/willowell/) &bull; [LinkedIn](https://www.linkedin.com/in/williamphowell/)
 
 ## Full Stack Software Developer
 
-Agile, user- and detail-oriented with 3+ years experience. Loves learning, experimenting with, and staying up-to-date with computer technologies and best practices. Strives to deliver an accessible, superior UX and DX. Designs solutions with a test-driven, domain-driven, and functional- and immutable-first approach, focusing on ["Parse, don't validate"](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) and the ["Functional Core, Imperative Shell"](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) pattern.
+Agile user-oriented professional with 3+ years experience. Loves learning, experimenting with, and staying up-to-date with computer technologies and best practices. Strives to deliver an accessible, superior UX and DX. Designs solutions with a test-driven, domain-driven, and functional- and immutable-first approach, focusing on ["Parse, don't validate"](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) and the ["Functional Core, Imperative Shell"](https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell) pattern.
 
 ## Areas of Interest (Ask me about...)
 
@@ -26,9 +23,16 @@ Toronto, Ontario, Canada, **April 2021 - Present**
 
 #### Web Developer
 
-* Collaborated in an Agile team to maintain the Food Network Canada and HGTV Canada websites, refining editor and visitor UX, accessibility, code quality, performance, SEO, and ad optimization.
-  * Developed and enhanced custom plugins to share reusable functionality across websites.
-* Collaborated in an Agile team on redesigning the corporate website, ensuring AODA compliance, providing an ergonomic and flexible UX for the editors, and providing an extensible foundation for future development.
+* More to come. Stay tuned!
+* Elevated search term relevancy on the Food Network Canada website by creating an autosuggestion feature using Machine Learning text extraction to locate terms on the website and leveraging ElasticSearch on WordPress VIP.
+  * Explored multiple Machine Learning models using Jupyter Notebooks, spaCy, HuggingFace Transformers, and Sentence Transformers (SBERT).
+  * Insured developer UX by creating the Machine Learning project as a self-contained Python Poetry project, complete with Confluence documentation and diagrams.
+* Collaborated in an Agile Scrum team to maintain the Food Network Canada and HGTV Canada websites, refining and elevating editor and visitor UX, accessibility, code quality, performance, SEO, and ad optimization.
+  * Developed and enhanced custom WordPress plugins to share functionality across websites, including for analytics and ad optimization.
+  * Fixed high-priority user-facing issues with fast turn-around, maintaining close communication with project manager and developers.
+  * Provided actionable performance audits using Webpack Bundle Analyzer and Google Lighthouse.
+  * Spearheaded investigation of various tools to improve developer UX, summarizing findings in Confluence.
+* Collaborated in an Agile Scrum team on redesigning the corporate website, ensuring AODA compliance, providing an ergonomic and flexible UX for the editors, and providing an extensible foundation for future development.
   * Saved Corus Digital maintenance effort while providing editors an improved UX with a new page builder system.
   * Improved onboarding and collaboration with an extensive user manual that doubles as a BDD-like specification for developers.
   * Reduced size of bundled CSS by about 50% using PurgeCSS.
@@ -39,9 +43,11 @@ Dothan, Alabama, United States of America, **May 2015 - July 2015**, **May 2016 
 
 #### Information Technology Assistant
 
-* Ensured compliance with company policy and government requirements by scanning CSV files from the item DB for incorrect fields with a Java app that outputs the results as RTF.
+* Ensured compliance with company policy and government requirements by scanning CSV files from the item DB for invalid fields with a Java 8 applet that outputs the results as RTF.
+  * Facilitated user UX with a simple JavaFX GUI featuring drag-and-drop.
 * Reduced burden on HR by organizing, scanning, and backing up data relating to insurance claims.
-* Assisted my father with setting up an Ethernet network at a new grocery store by cutting Cat6 cables and connecting the RJ45 connectors.
+* Assisted CTO (my father) with setting up an Ethernet network at a new grocery store by custom-sizing Cat6 RJ45 cables.
+* Reduced burden on CTO by setting up Intel NUC computers for deployment to stores.
 
 ## Volunteer Experience
 
@@ -97,10 +103,10 @@ A quick note: as listing my skills in terms of years of experience is inaccurate
 ### Programming Languages
 
   * TypeScript, JavaScript, and ES6+ (proficient)
-  * Scala 3 (learning, intermediate)
-  * Haskell (learning, intermediate)
   * Python 3 (intermediate)
   * PHP 7, 8 (learning, intermediate)
+  * Scala 3 (learning, intermediate)
+  * Haskell (learning, intermediate)
   * Java (rusty)
 
 ### Ecosystems, Systems, & Frameworks
@@ -166,6 +172,7 @@ A quick note: as listing my skills in terms of years of experience is inaccurate
   * Netlify (rusty, intermediate)
   * AWS (novice)
   * Cloudflare (learning, novice)
+  * WordPress VIP (learning, novice)
 
 ### Version Control Systems
 
