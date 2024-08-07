@@ -16,3 +16,5 @@ In my free time, I program for fun, exploring and learning about a wide array of
 When I'm not programming, I'm spending time with my amazing husband, playing with our adorable cat and dog, and getting lost in Elden Ring and Metroid Prime.
 </p>
 </details>
+
+*Profile picture is a screenshot from the video game ***CrossCode***.*
