@@ -27,7 +27,7 @@ Toronto, Ontario, Canada, **April 2021 - Present**
 * Elevated search term relevancy on the Food Network Canada website by creating an autosuggestion feature using Machine Learning text extraction to locate terms on the website and by leveraging ElasticSearch on WordPress VIP.
   * Explored multiple Machine Learning models using Jupyter Notebooks, spaCy, HuggingFace Transformers, and Sentence Transformers (SBERT).
   * Insured DX by creating the Machine Learning project as a self-contained modern Python Poetry project, complete with Confluence documentation and diagrams.
-* Collaborated in an Agile Scrum team to maintain the Food Network Canada and HGTV Canada websites, refining and elevating editor and visitor UX, accessibility, code quality, performance, SEO, and ad optimization.
+* Collaborated in an Agile Scrum team to maintain the Food Network Canada, HGTV Canada, and Slice websites, refining and elevating editor and visitor UX, accessibility, code quality, performance, SEO, and ad optimization.
   * Developed and enhanced custom WordPress plugins to share functionality across websites, including for analytics and ad optimization.
   * Fixed high-priority user-facing issues with fast turn-around, maintaining close communication with project manager and stakeholders.
   * Provided actionable performance audits using Webpack Bundle Analyzer and Google Lighthouse.
@@ -59,9 +59,10 @@ Toronto, Ontario, Canada, **November 2020 - June 2022**
 #### Webmaster
 
 * Improved main WordPress website’s UX by using Divi and CSS 3 to design responsive layouts and clean up the existing layout.
-* Raised over CAD$ 6000 for sponsored charity and organization by supporting community with a GatsbyJS website that was the hub for organization’s first virtual convention. Acquired over 3000 attendees by end of event.
+* Facilitated raise of over CAD$ 6000 for sponsored charity and organization by supporting community with a Gatsby.js (React.js) website that was hub for the organization’s first virtual convention. Acquired over 3000 attendees by end of event.
   * Used HTML CodeSniffer to ensure all attendees can enjoy the event and to comply with WCAG2AA.
   * Used GraphQL to type component props and retrieve content.
+  * Used React.js to reveal the main livestream on the website at a specific time.
   * Used Affinity Designer and Bootstrap theme samples for prototyping.
 
 ## Education
@@ -112,15 +113,15 @@ A quick note: as listing my skills in terms of years of experience is inaccurate
 
 #### General
 
-* NodeJS 18+ (proficient)
+* Node.js 18+ (proficient)
 * Scala Typelevel Ecosystem (Cats, Cats Effect, FS2, Circe, etc.) (learning, novice)
 * Deno (learning, novice)
 
 #### Web Dev
 
-* React 17+ (proficient)
-* Vue 3 (learning, novice)
-* GatsbyJS 2+ (rusty, proficient)
+* React.js 17+ (proficient)
+* Vue.js 3 (learning, novice)
+* Gatsby.js 2+ (rusty, proficient)
 * Next.js 12+ (proficient)
 * Nuxt.js 3 (learning, novice)
 * Astro (learning, intermediate)
