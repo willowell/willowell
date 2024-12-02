@@ -1,6 +1,8 @@
 # Hello, I'm Will 👋
 
-[![Portfolio - William Howell](https://img.shields.io/badge/-Portfolio-7e1eba?style=flat&logoColor=white)](/Portfolio.md) [![GitHub - William Howell](https://img.shields.io/badge/-willowell-181717?style=flat&logo=github&logoColor=white)](https://github.com/willowell/) [![LinkedIn - William Howell](https://img.shields.io/badge/-William_Howell-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/williamphowell/)
+[![Portfolio - William Howell](https://img.shields.io/badge/-View%20my%20portfolio-7e1eba?style=flat&logoColor=white)](/Portfolio.md)
+
+Socials: [![GitHub - William Howell](https://img.shields.io/badge/-willowell-181717?style=flat&logo=github&logoColor=white)](https://github.com/willowell/) [![LinkedIn - William Howell](https://img.shields.io/badge/-William_Howell-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/williamphowell/)
 
 <details>
 <summary>About Me</summary>
